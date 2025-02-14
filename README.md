@@ -1,4 +1,4 @@
-<h1> 📚 Repositório de Aulas da Alura <h1/>
+📚 Repositório de Aulas da Alura
 
 Bem-vindo(a) ao meu repositório de estudos! 🚀 Aqui estão armazenados os códigos, anotações e projetos desenvolvidos durante os cursos da Alura.
 
