@@ -18,13 +18,9 @@ React
 
 Node.js
 
-Python
-
-Banco de Dados
-
 ✨ Contribuições
 
-Este repositório é pessoal, mas se você quiser compartilhar dicas, sugestões ou colaborar de alguma forma, fique à vontade para abrir uma issue ou entrar em contato! 😃
+Este repositório é pessoal, mas se você quiser compartilhar dicas, sugestões ou colaborar de alguma forma, fique à vontade para entrar em contato! 😃
 
 📌 Contato
 
