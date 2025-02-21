@@ -77,3 +77,43 @@ function maiorNumero(num1, num2) {
 function multiplicar(number) {
     return number * number;
 }
+
+// 12 - Crie uma função que calcule o índice de massa corporal (IMC) de uma pessoa, a partir de sua altura, em metros, e peso, em quilogramas, que serão recebidos como parâmetro.
+
+function calcularIMC(peso, altura) {
+    let imc = peso / (altura * altura);
+    return imc;
+}
+
+// 13 - Crie uma função que converte um valor em dólar, passado como parâmetro, e retorna o valor equivalente em reais. Para isso, considere a cotação do dólar igual a R$4,80.
+
+function converterDolarParaReal(dolar) {
+    const cotacao = 4.80;
+    let reais = dolar * cotacao;
+    return reais;
+}
+
+// 14 - Crie uma lista vazia, com o nome listaGenerica.
+
+let listaGenerica = [];
+
+// 15 - Crie uma lista de linguagens de programação chamada linguagensDeProgramacao com os seguintes elementos: 'JavaScript','C','C++', 'Kotlin' e 'Python'.
+
+let linguagensDeProgramacao = ['JavaScript', 'C', 'C++', 'Kotlin', 'Python'];
+
+// 16 - Adicione à lista linguagensDeProgramacao os seguintes elementos: 'Java', 'Ruby' e 'GoLang'.
+
+linguagensDeProgramacao.push('Java', 'Ruby', 'Golang');
+
+// 17 - Crie uma lista com 3 nomes e exiba no console apenas o primeiro elemento.
+
+let nomes = ['Beatriz', 'Maria', 'Joyce'];
+console.log(nomes[0]);
+
+// 18 - Crie uma lista com 3 nomes e exiba no console apenas o segundo elemento.
+
+console.log(nomes[1]);
+
+// 19 - Crie uma lista com 3 nomes e exiba no console apenas o último elemento.
+
+console.log(nomes[2]);
